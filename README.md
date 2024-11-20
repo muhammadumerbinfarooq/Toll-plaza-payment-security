@@ -1,5 +1,3 @@
-
-```
 # Toll Plaza Payment Security in Dart
 Secure payment gateway for toll plaza using Dart.
 
@@ -24,7 +22,7 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
+
 
 _.gitignore:_
 
