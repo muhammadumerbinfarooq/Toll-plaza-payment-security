@@ -13,7 +13,7 @@ This project provides a basic secure payment gateway for toll plaza using Dart.
 - Dart SDK
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/muhammadumermemon/Toll-plaza-payment-security.git`
+1. Clone the repository: `git clone https://github.com/muhammadumerbinfarooq/Toll-plaza-payment-security.git`
 2. Navigate to the project directory: `cd toll-plaza-payment-security-dart`
 3. Run the program: `dart payment_gateway.dart`
 
